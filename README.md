@@ -9,188 +9,98 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/NuymakStone/Reason-AntiCheat">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/NuymakStone/Season-AntiCheat">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+<h3 align="center">Season AntiCheat</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    一个主打安全并且轻便型的作弊解决方案。
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="http://wpa.qq.com/msgrd?v=3&uin=1006800345&site=qq&menu=yes"><strong>申请内测 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/NuymakStone/Season-AntiCheat">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/NuymakStone/Season-AntiCheat/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/NuymakStone/Season-AntiCheat/issues">Request Feature</a>
   </p>
-</p>
 
 
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>目录</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#关于此项目">关于此项目</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#反作弊列表">反作弊列表</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#检测的作弊项目">检测的作弊项目</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#联系">联系</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 关于此项目
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Season AntiCheat主要是针对安全性与兼容性进行制作，旨在拦截暴力黑客，如同Syuu一般，使黑客如此安全。
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+当前反作弊为什么不公开:
+* 当前处于内测阶段，可能不会考虑开源，仅邀请与授权使用。 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+我如何获得授权:
+* 你可以通过 [点击这里](http://wpa.qq.com/msgrd?v=3&uin=1006800345&site=qq&menu=yes) 联系我获得
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+我可以购买此项目吗：
+* 当然可以，我可以保证此反作弊不会在您授权之外的服务器使用。
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+反作弊安全性如何：
+* 正如项目所说，此反作弊是针对服务器的安全性与误封性考虑，旨在拦截暴力黑客，并非拦截所有的黑客。剩下的黑客则有Staff处理等。
 
-### Built With
+### 反作弊列表
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+* [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus)
+* [Season](https://github.com/NuymakStone/Season-AntiCheat)
+* [ConditionalCommands](https://github.com/konsolas/ConditionalCommands)
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- 检测的作弊项目 -->
+## 检测的作弊项目
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
+* 拥有明显的Killaura,Aimbot特征作弊。
+* Fly,Speed等以极大优势的特征作弊。
+* 修改玩家的非法数据进行作弊。
+* etc.
 
 <!-- CONTACT -->
-## Contact
+## 联系
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
-
-
+NuymakStone 
+- [Bilibili](https://space.bilibili.com/285435837)
+- [Mail](1006800345@qq.com)
+- [QQ](http://wpa.qq.com/msgrd?v=3&uin=1006800345&site=qq&menu=yes)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/NuymakStone/Season-AntiCheat.svg?style=for-the-badge
+[contributors-url]: https://github.com/NuymakStone/Season-AntiCheat/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NuymakStone/Season-AntiCheat.svg?style=for-the-badge
+[forks-url]: https://github.com/NuymakStone/Season-AntiCheat/network/members
+[stars-shield]: https://img.shields.io/github/stars/NuymakStone/Season-AntiCheat.svg?style=for-the-badge
+[stars-url]: https://github.com/NuymakStone/Season-AntiCheat/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NuymakStone/Season-AntiCheat.svg?style=for-the-badge
+[issues-url]: https://github.com/NuymakStone/Season-AntiCheat/issues
+[license-shield]: https://img.shields.io/github/license/NuymakStone/Season-AntiCheat.svg?style=for-the-badge
+[license-url]: https://github.com/NuymakStone/Season-AntiCheat/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
