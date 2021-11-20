@@ -79,6 +79,7 @@ Season AntiCheat主要是针对安全性与兼容性进行制作，旨在拦截�
 * 拥有明显的Killaura,Aimbot特征作弊。
 * Fly,Speed等以极大优势的特征作弊。
 * 修改玩家的非法数据进行作弊。
+* Reach检查约3.12~3.2及以上。
 * etc.
 
 <!-- CONTACT -->
